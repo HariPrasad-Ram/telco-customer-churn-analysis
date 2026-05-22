@@ -1,0 +1,4 @@
+InternetService,Total_Customers,Churned,Churn_Rate_Pct,Avg_Monthly_Charges,Avg_Tenure_Months
+"Fiber optic",3096,1297,41.89,91.50,32.9
+DSL,2421,459,18.96,58.10,32.8
+No,1526,113,7.40,21.08,30.5

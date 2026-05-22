@@ -1,0 +1,4 @@
+Contract,Total_Customers,Churned,Churn_Rate_Pct,Avg_Monthly_Charges,Contract_Risk
+Month-to-month,3875,1655,42.71,66.40,"High Risk"
+"One year",1473,166,11.27,65.05,"Medium Risk"
+"Two year",1695,48,2.83,60.77,"Low Risk"
